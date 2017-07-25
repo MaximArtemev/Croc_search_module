@@ -72,7 +72,6 @@
 
 В принципе я описал как это работает. Если будут вопросы, пишите мне
 
-* 1. mail = mrartemev@edu.hse.ru
-* 2. telegram -> @MRArtemev
+* 1. telegram -> @MRArtemev
 
 
