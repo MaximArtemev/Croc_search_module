@@ -30,6 +30,8 @@
 0. Пререквизиты:
 
 * Нужно скачать [sent2vec](https://github.com/epfml/sent2vec "sent2vec")
+* Переименовать ее как *sent2vec*
+* Запустить команду *make* внутри
 * Убедиться, что все грязные файлы помещены в *./Dirty/Data* и *./Dirty/Discussions*
 
 
