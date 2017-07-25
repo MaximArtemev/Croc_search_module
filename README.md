@@ -30,6 +30,6 @@
 Для начала работы с системой, следует запустить файл ModelCreate.py
 
 Внутри него сначала создадутся необходимые каталоги, вот так:
-![haha](http://i.imgur.com/Fu0NDxF.png)
+![file structure](https://github.com/MaximArtemev/Croc_search_module/blob/master/File%20structure.png?raw=true)
 
 
