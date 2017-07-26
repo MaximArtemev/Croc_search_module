@@ -14,6 +14,15 @@ stop_words = {wordNormal.normal_forms(i)[0] for i in get_stop_words('ru')}
 
 MODEL_NAME = 'finaleModel.bin'
 
+#Here we will create all ours directories
+try:
+    os.mkdirs('./Clean/Data/')
+    os.mkdir('./Clean/Discussions')
+    os.mkdir('./Technical/')
+    os.mkdir('./Model/')
+except:
+    pass
+
 #This is the part where all docs and discussions get cleaned and stored
 #Also test and train txt was created here
 
